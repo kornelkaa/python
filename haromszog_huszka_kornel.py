@@ -1,0 +1,6 @@
+v1=int(input('A háromszög A oldala:'))
+v2=int(input('A háromszög B oldala:'))
+v3=int(input('A háromszög C oldala:'))
+v4=int(input('A háromszög magassága'))
+print('A háromszög kerülete:', v1+v2+v3, 'cm')
+print('A háromszög területe:', v1*v4/2, 'cm')
